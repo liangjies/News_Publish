@@ -1,0 +1,57 @@
+a:link
+{
+    color: #000000;
+    text-decoration: none
+}
+a:visited
+{
+    color: #000000;
+    text-decoration: none
+}
+a:hover
+{
+    color: #ff7f24;
+    text-decoration: underline;
+}
+a:active
+{
+    color: #ff7f24;
+    text-decoration:no
+}
+body 
+{
+    text-align:center;
+    vertical-align:top;
+    margin:0 auto;
+    padding:0px;
+    
+}
+/*按钮样式*/
+.ButtonCss {
+    font-family: "Tahoma", "宋体";
+    font-size: 9pt; color: #003399;
+    border: 1px solid #93bee2;
+    color: #006699;
+    background-image:url('Images/bluebuttonbg.gif');
+    background-color: #e8f4ff;
+    CURSOR: hand;
+    font-style: normal;
+    height: 20px;
+}
+.InputCss {  
+    font-size: 9pt; 
+    color: #003399; 
+    font-family: "宋体"; 
+    font-style: normal; 
+	/*background-color: #CCCC99; */
+    border-color: #93BEE2 #93BEE2 #93BEE2 #93BEE2 ; 
+    border: 1px #93BEE2 solid; 
+}
+.DropdownListCss {  
+    font-size: 9pt; 
+    color: #003399; 
+    font-family: "宋体"; 
+    font-style: normal;
+    border-color: #93BEE2 #93BEE2 #93BEE2 #93BEE2 ; 
+    border: 1px #93BEE2 solid; 
+}
