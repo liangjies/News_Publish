@@ -99,38 +99,38 @@
 
 ## 2.1.1首页
 
-​     ![](https://cdn.icewx.com/github/News_Publish/image001.png)                                             
+​     ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image001.png)                                             
 
 移动端自适应页面：
 
-   ![](https://cdn.icewx.com/github/News_Publish/image002.png)       
+   ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image002.png)       
 
 ## 2.1.2文章内容
 
-![](https://cdn.icewx.com/github/News_Publish/image003.png)       
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image003.png)       
 
 ## 2.1.3留言页面
-  ![](https://cdn.icewx.com/github/News_Publish/image004.png)       
+  ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image004.png)       
 
 
 ## 2.2系统后台
 
 ## 2.2.1后台登录
-  ![](https://cdn.icewx.com/github/News_Publish/image005.png)       
+  ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image005.png)       
 
 
 输入正确的用户名和密码即可登录成功
-  ![](https://cdn.icewx.com/github/News_Publish/image006.png)       
+  ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image006.png)       
 
 
 ## 2.2.2文章管理
 
 ## 文章列表
-  ![](https://cdn.icewx.com/github/News_Publish/image007.png)       
+  ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image007.png)       
 ​    
 
 ## 添加文章
-  ![](https://cdn.icewx.com/github/News_Publish/image008.png)       
+  ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image008.png)       
 
 
 
@@ -138,21 +138,21 @@
 
 
 选择类型、输入标题和内容点击提交就能添加到数据库Message表中
-  ![](https://cdn.icewx.com/github/News_Publish/image009.png)       
+  ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image009.png)       
 
 
 ## 搜索文章
-  ![](https://cdn.icewx.com/github/News_Publish/image010.png)       
+  ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image010.png)       
 
 
 ## 编辑文章
-![](https://cdn.icewx.com/github/News_Publish/image011.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image011.png)  
 
 
 ## 分页
-![](https://cdn.icewx.com/github/News_Publish/image012.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image012.png)  
 
-![](https://cdn.icewx.com/github/News_Publish/image013.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image013.png)  
 
 
 
@@ -160,32 +160,32 @@
 ## 2.2.3栏目管理
 
 ## 栏目列表
-![](https://cdn.icewx.com/github/News_Publish/image014.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image014.png)  
 
 
 
 
 ## 添加栏目
-![](https://cdn.icewx.com/github/News_Publish/image015.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image015.png)  
 输入栏目名称链接、和排序点击提交就能添加栏目到数据库Column表中
-![](https://cdn.icewx.com/github/News_Publish/image016.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image016.png)  
 
 
 ## 2.2.4用户管理
 
 ## 用户列表
-![](https://cdn.icewx.com/github/News_Publish/image017.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image017.png)  
 
 
 
 
 ## 添加管理员
-![](https://cdn.icewx.com/github/News_Publish/image019.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image019.png)  
 输入账号和密码点击添加就能添加管理员到数据库User表中
 
- ![](https://cdn.icewx.com/github/News_Publish/image018.png)  
+ ![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image018.png)  
 
    
 
 ## 管理员密码修改
-![](https://cdn.icewx.com/github/News_Publish/image020.png)  
+![](https://icewx-1251138640.cos.ap-guangzhou.myqcloud.com/github/News_Publish/image020.png)  
